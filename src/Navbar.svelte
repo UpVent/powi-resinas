@@ -11,12 +11,12 @@
     import Thermometer from 'svelte-bootstrap-icons/lib/Thermometer';
 
     // Navbar logo
-    const logo = 'images/medilia-logo.png';
+    const logo = 'images/logo-powi.png';
 </script>
 
-<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-0">
-    <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none navbar-brand">
-    <img class="mx-auto"  width="150" height="60" src="{logo}" alt="UpVent Logo">
+<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-1 mb-0">
+    <a href="/" class="d-flex align-items-center col-md-3 mb-1 mb-md-0 text-dark text-decoration-none navbar-brand">
+        <img class="img-fluid mx-auto" width="100" height="100" src="{logo}" alt="Logo de Powi Resinas">
     </a>
 
     <ul class="nav nav-pills col-12 mx-auto col-md-auto mb-2 justify-content-center mb-md-0">
