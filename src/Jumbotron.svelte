@@ -11,12 +11,7 @@
 <style>
     .jumbotron {
         background:
-                linear-gradient(
-                rgba(0, 0, 0, 0.45),
-                rgba(0, 0, 0, 0.8)
-         ),
-            url("/images/lab.jpg");
-        background-size: cover;
+            url("/images/background-pattern.png");
     }
 
     .jumbotron-image {
@@ -29,7 +24,7 @@
     <div class="container">
         <div class="row">
             <div class="col-8">
-                <h1 class="text-light mt-5 mb-5">Garantizamos un funcionamiento correcto en tus equipos de medición.</h1>
+                <h1 class="display-3 text-light mt-5 mb-3">Resina epóxica</h1>
                 <hr class="text-light">
                     <p class="text-light lead">
                         Somos un laboratorio de calibración con más de 20 años de experiencia en la configuración y mantenimiento de los elementos de medición para su correcto funcionamiento.
