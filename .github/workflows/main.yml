@@ -1,16 +1,10 @@
-# This is a basic workflow to help you get started with Actions
+# This is a basic workflow to automatically build a Svelte app and deploy it to GitHub Pages
 
-name: Build + Deploy CI
+name: Deploy to GitHub Pages
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
