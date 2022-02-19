@@ -1,8 +1,4 @@
-.text-instagram.svelte-nwi9t1{color:#c13584}.text-twitter.svelte-nwi9t1{color:#1da1f2}.text-facebook.svelte-nwi9t1{color:#1877f2}.jumbotron.svelte-vth33w{background:linear-gradient(
-                rgba(0, 0, 0, 0.45),
-                rgba(0, 0, 0, 0.8)
-         ),
-            url("/images/lab.jpg");background-size:cover}.jumbotron-image.svelte-vth33w{border-radius:5%;box-shadow:0 3px 10px rgb(0 0 0 / 0.2)}@charset "UTF-8";/*!
+.text-instagram.svelte-nwi9t1{color:#c13584}.text-twitter.svelte-nwi9t1{color:#1da1f2}.text-facebook.svelte-nwi9t1{color:#1877f2}.jumbotron.svelte-wh4fgs{background:url("/images/background-pattern.png")}.jumbotron-image.svelte-wh4fgs{border-radius:5%;box-shadow:0 3px 10px rgb(0 0 0 / 0.2)}@charset "UTF-8";/*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
