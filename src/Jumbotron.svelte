@@ -30,8 +30,8 @@
          <p class="text-light lead">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquam felis eget sollicitudin vestibulum. Proin felis arcu, placerat aliquam dapibus non, tincidunt sit amet enim. Vivamus fringilla ante varius neque fringilla bibendum. Suspendisse eget eros rhoncus, convallis sem sed, tempor elit.
         </p>
-        <div class="container">
-            <a class="btn btn-light" href="#">btn btn-light</a>
+        <div class="container mt-5">
+            <a class="btn btn-light rounded-pill" href="#">Visita nuestro catálogo de productos</a>
         </div>
     </div>
 </div>
