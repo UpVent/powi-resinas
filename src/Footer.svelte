@@ -3,7 +3,7 @@
     let year = new Date().getFullYear();
 
     // Medilia logo
-    const logo = 'images/medilia-logo.png';
+    const logo = 'images/logo-powi.png';
 
     // Footer Icons
     import Twitter from 'svelte-bootstrap-icons/lib/Twitter';

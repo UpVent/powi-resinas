@@ -11,7 +11,8 @@
 <style>
     .jumbotron {
         background:
-            url("/images/background-pattern.png");
+        url("/images/background-pattern.png");
+        height: 30em;
     }
 
     .jumbotron-image {
@@ -21,21 +22,16 @@
 </style>
 
 <div class="jumbotron">
-    <div class="container">
-        <div class="row">
-            <div class="col-8">
-                <h1 class="display-3 text-light mt-5 mb-3">Resina epóxica</h1>
-                <hr class="text-light">
-                    <p class="text-light lead">
-                        Somos un laboratorio de calibración con más de 20 años de experiencia en la configuración y mantenimiento de los elementos de medición para su correcto funcionamiento.
-                    </p>
-                <div class="d-grid gap-2 mt-2 mb-2 d-md-block">
-                    <Button size="lg" color="primary">Contacto <Phone/></Button>
-                </div>
-            </div>
-            <div class="col-4">
-                <img class="img-fluid mt-5 mx-auto jumbotron-image" src={jumboimage} alt="Imágen mostrando una persona utilizando equipo de metrología."/>
-            </div>
+    <div class="container text-center">
+        <br>
+        <br>
+        <h1 class="display-3 text-light mt-5 mb-3">Resina epóxica</h1>
+        <hr class="text-light">
+         <p class="text-light lead">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquam felis eget sollicitudin vestibulum. Proin felis arcu, placerat aliquam dapibus non, tincidunt sit amet enim. Vivamus fringilla ante varius neque fringilla bibendum. Suspendisse eget eros rhoncus, convallis sem sed, tempor elit.
+        </p>
+        <div class="container">
+            <a class="btn btn-light" href="#">btn btn-light</a>
         </div>
     </div>
 </div>
