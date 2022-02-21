@@ -45,8 +45,8 @@
     </ul>
 
     <div class="text-end me-auto ms-auto mx-auto">
-        <a class="px-2 text-instagram"><Instagram/></a>
-        <a class="px-2 text-twitter"><Twitter/></a>
-        <a class="px-2 text-facebook"><Facebook/></a>
+        <a href="https://www.instagram.com/powi.resina/" class="px-2 text-instagram"><Instagram/></a>
+        <a href="https://twitter.com/Resinas_Powi" class="px-2 text-twitter"><Twitter/></a>
+        <a href="https://www.facebook.com/Resinas-Powi-104488658279251/" class="px-2 text-facebook"><Facebook/></a>
     </div>
 </header>
