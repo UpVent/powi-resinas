@@ -29,6 +29,30 @@
     .text-facebook {
         color: #1877f2;
     }
+
+    .hover-underline {
+        display: inline-block;
+        position: relative;
+        color: #3f758f;
+    }
+
+    .hover-underline:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        transform: scaleX(0);
+        height: 2px;
+        bottom: 0;
+        left: 0;
+        background-color: #3f758f;
+        transform-origin: bottom right;
+        transition: transform 0.25s ease-out;
+    }
+
+    .hover-underline:hover:after {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+    }
 </style>
 
 <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-1 mb-0">
@@ -37,11 +61,11 @@
     </a>
 
     <ul class="nav nav-pills col-12 mx-auto col-md-auto mb-1 justify-content-center mb-md-0">
-        <li><a class="nav-link px-2 text-muted" href="/">Inicio <House/></a></li>
-        <li><a class="nav-link px-2 text-muted" href="/">Tienda <BagFill/></a></li>
-        <li><a class="nav-link px-2 text-muted" href="/">Servicios <BoxSeam/></a></li>
-        <li><a class="nav-link px-2 text-muted" href="/">Galería <Images/></a></li>
-        <li><a class="nav-link px-2 text-muted" href="/">Acerca de <People/></a></li>
+        <li><a class="nav-link px-2 text-muted hover-underline" href="/">Inicio <House/></a></li>
+        <li><a class="nav-link px-2 text-muted hover-underline" href="/">Tienda <BagFill/></a></li>
+        <li><a class="nav-link px-2 text-muted hover-underline" href="/">Servicios <BoxSeam/></a></li>
+        <li><a class="nav-link px-2 text-muted hover-underline" href="/">Galería <Images/></a></li>
+        <li><a class="nav-link px-2 text-muted hover-underline" href="/">Acerca de <People/></a></li>
     </ul>
 
     <div class="text-end me-auto ms-auto mx-auto">
