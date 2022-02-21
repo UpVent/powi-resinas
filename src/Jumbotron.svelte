@@ -13,11 +13,8 @@
         background:
         url("/images/background-pattern.png");
         height: 30em;
-    }
-
-    .jumbotron-image {
-        border-radius: 5%;
-        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        font-family: 'Pacifico', cursive;
+        font-weight: 400;
     }
 </style>
 
