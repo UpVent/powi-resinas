@@ -1,6 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '@fontsource/pacifico/400.css';
-import '@fontsource/raleway';
 
 import App from './App.svelte';
 
