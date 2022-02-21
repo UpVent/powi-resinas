@@ -44,7 +44,7 @@
         <p>Hecho con <HeartFill class="text-danger"/> por <a class="text-decoration-none" href="https://upvent.codes" target="_blank">UpVent Technologies</a></p>
     </div>
 
-    <div class="container text-center text-powi small mt-5 border-top border-light">
+    <div class="container text-center text-powi small mt-5 border-top border-light border-4">
         <p>
             El <a href="https://github.com/UpVent/powi-resinas">código fuente</a> de esta página se encuentra bajo la <a href="https://www.gnu.org/licenses/agpl-3.0.html">Licencia Pública General de Affero (GNU) versión 3</a>. Excepto donde se indique lo <a href="https://creativecommons.org/policies#license">contrario</a>, el trabajo escrito, blogs, opiniones y parte del contenido visual se encuentra bajo la <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Licencia Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)</a>
         </p>
